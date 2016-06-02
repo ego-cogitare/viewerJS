@@ -1,0 +1,13 @@
+{
+  "name": "viewerjs",
+  "homepage": "https://github.com/boastify/viewerJS",
+  "_release": "70f145955b",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "70f145955ba81689422e5e1b4e5f5bd612e9931d"
+  },
+  "_source": "https://github.com/boastify/viewerJS.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/boastify/viewerJS.git"
+}
